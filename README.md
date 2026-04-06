@@ -2,12 +2,12 @@
 Simulation of solar + wind + battery system Real-time or synthetic data Predictive model (ML) Visualization dashboard  Tech:  Python Pandas, NumPy Scikit-learn Matplotlib / Plotly
 # Digital Twin for Hybrid Renewable Energy Systems
 
-## 🌍 Overview
+## Overview
 This project presents a digital twin framework for a hybrid renewable energy system integrating solar and wind energy sources. The model simulates real-time system behavior and predicts energy output under varying environmental conditions using data-driven and physics-based approaches.
 
 ---
 
-## 🎯 Objectives
+##Objectives
 - Develop a virtual replica (digital twin) of a hybrid energy system  
 - Analyze the impact of weather conditions on energy generation  
 - Predict energy output using machine learning models  
@@ -15,7 +15,7 @@ This project presents a digital twin framework for a hybrid renewable energy sys
 
 ---
 
-## ⚙️ Technologies Used
+##Technologies Used
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
@@ -23,7 +23,7 @@ This project presents a digital twin framework for a hybrid renewable energy sys
 
 ---
 
-## 📊 Dataset
+##Dataset
 - Solar irradiance data  
 - Wind speed data  
 - Weather parameters (temperature, time)  
@@ -32,7 +32,7 @@ This project presents a digital twin framework for a hybrid renewable energy sys
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 - Cleaning and normalization of environmental data  
@@ -48,14 +48,14 @@ This project presents a digital twin framework for a hybrid renewable energy sys
 
 ---
 
-## 📈 Results
+## Results
 - Accurate prediction of renewable energy output  
 - Insight into system performance under varying climate conditions  
 - Visualization of hybrid energy generation trends  
 
 ---
 
-## 🚀 Future Work
+## Future Work
 - Integration of battery storage systems  
 - Real-time data streaming  
 - Advanced deep learning models (LSTM)  
@@ -63,13 +63,13 @@ This project presents a digital twin framework for a hybrid renewable energy sys
 
 ---
 
-## 🤝 Applications
+## Applications
 - Smart grids  
 - Defense energy systems  
 - Climate-resilient infrastructure  
 - Renewable energy optimization  
 
----
-
 ## 📌 Author
-[Your Name]
+**Gayathri Nair C**
+
+
