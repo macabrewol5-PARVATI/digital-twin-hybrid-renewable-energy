@@ -71,5 +71,7 @@ This project presents a digital twin framework for a hybrid renewable energy sys
 
 ## 📌 Author
 **Gayathri Nair C**
-
+## 🌐 Connect with Me
+- LinkedIn: (www.linkedin.com/in/gayathri-nair-c-361a38268)
+  
 
